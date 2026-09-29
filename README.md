@@ -75,25 +75,32 @@ The following technologies and tools are used throughout this repository:
 ```text
 Machine-Learning-Lab/
 │
-├── Data/
-│   └── Datasets used in laboratory exercises
-│
 ├── Lab 01 Python_NumPy_Pandas_Matplotlib/
 │   └── Laboratory 01 files
 │
 ├── Lab 02 Data_cleaning_and_EDA/
+│   ├── Dataset/
+│   │   └── Laboratory 02 datasets
 │   └── Laboratory 02 files
 │
 ├── Lab 03 Decision_tree/
+│   ├── Dataset/
+│   │   └── Laboratory 03 datasets
 │   └── Laboratory 03 files
 │
 ├── Lab 04 Improving_and_Comparing_ML_Models/
+│   ├── Dataset/
+│   │   └── Laboratory 04 datasets
 │   └── Laboratory 04 files
 │
 ├── Lab 05 Linear_Regression/
+│   ├── Dataset/
+│   │   └── Laboratory 05 datasets
 │   └── Laboratory 05 files
 │
 ├── Lab 06 Logistic_Regression_and_KNN/
+│   ├── Dataset/
+│   │   └── Laboratory 06 datasets
 │   └── Laboratory 06 files
 │
 ├── Lab 07/
@@ -103,7 +110,8 @@ Machine-Learning-Lab/
 │
 ├── README.md
 ├── LICENSE
-└── .gitignore```
+└── .gitignore
+```
 
 ## 👨‍💻 Author
 
