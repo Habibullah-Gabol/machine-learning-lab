@@ -78,23 +78,23 @@ Machine-Learning-Lab/
 ├── Data/
 │   └── Datasets used in laboratory exercises
 │
-├── Lab 01/
+├── Lab 01 Python_NumPy_Pandas_Matplotlib/
 │   └── Laboratory 01 files
 │
-├── Lab 02/
+├── Lab 02 Data_cleaning_and_EDA/
 │   └── Laboratory 02 files
 │
-├── Lab 03/
+├── Lab 03 Decision_tree/
 │   └── Laboratory 03 files
 │
-├── Lab 04/
+├── Lab 04 Improving_and_Comparing_ML_Models/
 │   └── Laboratory 04 files
 │
-├── Lab 05/
+├── Lab 05 Linear_Regression/
 │   └── Laboratory 05 files
 │
-├── Lab 06/
-│   └── Upcoming laboratory work
+├── Lab 06 Logistic_Regression_and_KNN/
+│   └── Laboratory 06 files
 │
 ├── Lab 07/
 │   └── Upcoming laboratory work
@@ -103,8 +103,7 @@ Machine-Learning-Lab/
 │
 ├── README.md
 ├── LICENSE
-└── .gitignore
-```
+└── .gitignore```
 
 ## 👨‍💻 Author
 
